@@ -7,6 +7,7 @@ image_metadata:
   caption: A second look at the final model, showing the massing of the project.
   credit: 'Credit: Image courtesy of Joe Dahmen.'
   image-alt: A second look at the final model.
+parent_uid: b0fcaaec-8735-ce35-2e47-e97671ca040f
 resourcetype: Image
 title: dahmen8.jpg
 uid: 03d6e7ae-167c-48c9-e47e-92a1a6362f4c

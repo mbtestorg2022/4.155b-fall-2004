@@ -9,6 +9,7 @@ image_metadata:
     conditions of land versus water.
   credit: 'Credit: Image courtesy of Joe Dahmen.'
   image-alt: A diagram of forces and movements along the site.
+parent_uid: b0fcaaec-8735-ce35-2e47-e97671ca040f
 resourcetype: Image
 title: dahmen3.jpg
 uid: 513be3f3-803b-e9b6-685e-d4a43bf4a0e7

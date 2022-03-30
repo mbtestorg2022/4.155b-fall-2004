@@ -11,6 +11,7 @@ image_metadata:
     transient, and the site plays on that.
   credit: 'Credit: Image courtesy of Joe Dahmen.'
   image-alt: The final model.
+parent_uid: b0fcaaec-8735-ce35-2e47-e97671ca040f
 resourcetype: Image
 title: dahmen7.jpg
 uid: e212ec7b-752c-cf55-66e5-aa6c538e9c52

@@ -9,6 +9,7 @@ image_metadata:
     the angle of view and opening a space to the sky.
   credit: 'Credit: Image courtesy of James Smith.'
   image-alt: A detail model.
+parent_uid: 2555c116-7306-3a1b-2e9f-193e8ce3e695
 resourcetype: Image
 title: smith2.jpg
 uid: 29130812-7c2e-e010-13e7-7350285b3f4f

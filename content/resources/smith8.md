@@ -11,6 +11,7 @@ image_metadata:
     and the new.
   credit: 'Credit: Image courtesy of James Smith.'
   image-alt: An overhead view of the final model.
+parent_uid: 2555c116-7306-3a1b-2e9f-193e8ce3e695
 resourcetype: Image
 title: smith8.jpg
 uid: c88a7c6a-0d16-d2d1-7522-f0c3a1ad35d7

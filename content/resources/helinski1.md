@@ -9,6 +9,7 @@ image_metadata:
     Note the strings that tell the viewer how the sunlight moves in the space.
   credit: 'Credit: Image courtesy of Katice Helinski.'
   image-alt: An installation dealing with light as material, and space-maker.
+parent_uid: 34d025b0-7565-7a67-7402-1b63bcc83d09
 resourcetype: Image
 title: helinski1.jpg
 uid: c0c6cb84-105f-9976-54ac-089db4f757db

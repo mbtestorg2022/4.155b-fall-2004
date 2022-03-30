@@ -11,6 +11,7 @@ image_metadata:
     unknown places.
   credit: 'Credit: Image courtesy of James Smith.'
   image-alt: A movable map of the corridors of MIT and their relation.
+parent_uid: 2555c116-7306-3a1b-2e9f-193e8ce3e695
 resourcetype: Image
 title: smith3.jpg
 uid: a28b4f21-3f5f-4d63-4618-0818fbd77863

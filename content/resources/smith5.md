@@ -9,6 +9,7 @@ image_metadata:
     of mirrors with the materiality of the project.
   credit: 'Credit: Image courtesy of James Smith.'
   image-alt: A more refined material model.
+parent_uid: 2555c116-7306-3a1b-2e9f-193e8ce3e695
 resourcetype: Image
 title: smith5.jpg
 uid: 2836a27b-1bc1-aaf0-110b-5e043970383c

@@ -11,6 +11,7 @@ image_metadata:
     existed without the tension.
   credit: 'Credit: Image courtesy of James Smith.'
   image-alt: The new corridors and spaces.
+parent_uid: 2555c116-7306-3a1b-2e9f-193e8ce3e695
 resourcetype: Image
 title: smith7.jpg
 uid: 41a54a57-3443-84cd-f544-eaf18d3785b8

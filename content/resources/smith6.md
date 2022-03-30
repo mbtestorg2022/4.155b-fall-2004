@@ -11,6 +11,7 @@ image_metadata:
     given an outlet and new life.'
   credit: 'Credit: Image courtesy of James Smith.'
   image-alt: The final model.
+parent_uid: 2555c116-7306-3a1b-2e9f-193e8ce3e695
 resourcetype: Image
 title: smith6.jpg
 uid: 370cb094-1377-aa43-6b91-9feff125e02c

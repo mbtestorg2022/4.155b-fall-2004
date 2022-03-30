@@ -9,6 +9,7 @@ image_metadata:
     plays with the conditions of molding and the nature of concrete.
   credit: 'Credit: Image courtesy of Katice Helinski.'
   image-alt: Material molded by space, and molding space simultaneously.
+parent_uid: 34d025b0-7565-7a67-7402-1b63bcc83d09
 resourcetype: Image
 title: helinski2.jpg
 uid: 1c96e7ca-8c9d-32d2-0dfe-ccad0c01ecfb

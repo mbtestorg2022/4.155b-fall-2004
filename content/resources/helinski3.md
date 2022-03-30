@@ -11,6 +11,7 @@ image_metadata:
     nature.
   credit: 'Credit: Image courtesy of Katice Helinski.'
   image-alt: The relationship of glass and concrete
+parent_uid: 34d025b0-7565-7a67-7402-1b63bcc83d09
 resourcetype: Image
 title: helinski3.jpg
 uid: 3e1b8405-5fa0-de37-18d5-e4e631460702

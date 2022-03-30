@@ -11,6 +11,7 @@ image_metadata:
     start to define spaces.
   credit: 'Credit: Image courtesy of Katice Helinski.'
   image-alt: An intense investigation of spaces and shapes.
+parent_uid: 34d025b0-7565-7a67-7402-1b63bcc83d09
 resourcetype: Image
 title: helinski7.jpg
 uid: a7bab49f-1495-e8ad-9e16-82f306b58ae7

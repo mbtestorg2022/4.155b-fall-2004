@@ -9,6 +9,7 @@ image_metadata:
     is treated both as a solid and a liquid, relative to the glass.
   credit: 'Credit: Image courtesy of Katice Helinski.'
   image-alt: An early creation of space through the collision of materials.
+parent_uid: 34d025b0-7565-7a67-7402-1b63bcc83d09
 resourcetype: Image
 title: helinski6.jpg
 uid: 24a10862-e87c-0a36-c463-744c970e5323

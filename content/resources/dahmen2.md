@@ -11,6 +11,7 @@ image_metadata:
     lighter pieces.
   credit: 'Credit: Image courtesy of Joe Dahmen.'
   image-alt: A second tectonic model.
+parent_uid: b0fcaaec-8735-ce35-2e47-e97671ca040f
 resourcetype: Image
 title: dahmen2.jpg
 uid: cf689a08-14f1-fa87-699e-46448fe484eb

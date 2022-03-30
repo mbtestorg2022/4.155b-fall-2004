@@ -9,6 +9,7 @@ image_metadata:
     whole.
   credit: 'Credit: Image courtesy of Katice Helinski.'
   image-alt: The final model.
+parent_uid: 34d025b0-7565-7a67-7402-1b63bcc83d09
 resourcetype: Image
 title: helinski8.jpg
 uid: 17c13d12-1ea2-7a2b-a709-004b9831026c

@@ -9,6 +9,7 @@ image_metadata:
     strength. Invisible forces are made visible.
   credit: 'Credit: Image courtesy of Joe Dahmen.'
   image-alt: A tectonic model.
+parent_uid: b0fcaaec-8735-ce35-2e47-e97671ca040f
 resourcetype: Image
 title: dahmen1.jpg
 uid: 35d7fbec-7ca9-9bb7-6da3-1bacab9881ac

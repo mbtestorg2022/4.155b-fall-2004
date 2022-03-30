@@ -9,6 +9,7 @@ image_metadata:
     the forces of the site, and showing both.
   credit: 'Credit: Image courtesy of Joe Dahmen.'
   image-alt: The first pass at a final model.
+parent_uid: b0fcaaec-8735-ce35-2e47-e97671ca040f
 resourcetype: Image
 title: dahmen6.jpg
 uid: 8b2d0cc8-e2ae-69c6-092e-24fbb750aa06

@@ -9,6 +9,7 @@ image_metadata:
     the heavy, and once again invisible forces are revealed.
   credit: 'Credit: Image courtesy of Katice Helinski.'
   image-alt: Glass and concrete in dynamic tension.
+parent_uid: 34d025b0-7565-7a67-7402-1b63bcc83d09
 resourcetype: Image
 title: helinski5.jpg
 uid: 54cf4d86-5ee3-a4d3-0956-b562d077fd86

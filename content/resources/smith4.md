@@ -10,6 +10,7 @@ image_metadata:
     types.'
   credit: 'Credit: Image courtesy of James Smith.'
   image-alt: Material juxtaposition.
+parent_uid: 2555c116-7306-3a1b-2e9f-193e8ce3e695
 resourcetype: Image
 title: smith4.jpg
 uid: 31d5e6e2-c987-e896-67e1-4d05e8d514a3

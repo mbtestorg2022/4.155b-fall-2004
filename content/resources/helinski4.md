@@ -8,6 +8,7 @@ image_metadata:
   caption: A second look at the same model, showing the result of this material collision.
   credit: 'Credit: Image courtesy of Katice Helinski.'
   image-alt: A second look at the same model.
+parent_uid: 34d025b0-7565-7a67-7402-1b63bcc83d09
 resourcetype: Image
 title: helinski4.jpg
 uid: bb950467-aa2c-d1de-0183-597418e743ec
